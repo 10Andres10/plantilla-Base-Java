@@ -64,7 +64,7 @@ public class PanelOperaciones extends JPanel
         //Crear y agregar botón Salir
         btSalir = new JButton("Salir");
         btSalir.setBounds(190,80,170,20); 
-        btSalir.setActionCommand("salir");
+        btSalir.setActionCommand("Salir");
         this.add(btSalir);
 
         //Borde y titulo del panel
